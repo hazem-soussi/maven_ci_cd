@@ -1,3 +1,1 @@
-registration-app
-<br>
-Test33
+pipeline for maven build and k8s deployment
